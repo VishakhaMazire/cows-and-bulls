@@ -11,6 +11,6 @@ while j<len(list2):
     if choice in list2:
         print(choice,"present in list2")
     else:
-        print("not present in list")
+        print("not present in list1")
     j=j+1
     break
