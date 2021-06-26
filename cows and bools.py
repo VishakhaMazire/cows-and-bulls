@@ -50,4 +50,3 @@ def play_again():
         else:
             break 
 play_again()
-#cow and bull game
