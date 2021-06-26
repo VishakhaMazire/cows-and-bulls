@@ -35,7 +35,7 @@ def check_guess():
                 cow.append(guess)
                 print("Cow, This number is in list you can reuse it",cow)
         if bull==num:
-            print(name,"Congractulations you win the game ")
+            print(name,"Congratulations you win the game ")
             break 
         maxguess-=1
         print(maxguess,"Turns are left")
